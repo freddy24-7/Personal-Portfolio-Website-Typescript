@@ -27,13 +27,3 @@ This project is a personal portfolio website designed to showcase the work and s
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install` in the project directory.
 3. Start the development server with `npm start`. This will launch the website on `localhost:3000`.
-
-## Contributing
-
-Contributions to improve the project are welcome. Please follow the standard fork-and-pull request workflow.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
